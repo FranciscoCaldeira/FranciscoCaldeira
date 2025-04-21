@@ -19,8 +19,12 @@ I'm Francisco, and I'm looking for shipping code to the world 😊 as a **back-e
 
 ## My work
 
-* [Hiking pace calculator](https://new2code.github.io/hiking-pace-calculator/): An interactive calculator to plan your long distance hike. I made this to showcase skills I'm building with JavaScript and HTML. 
-* GitHub's [Green Software Directory](https://github.com/github/GreenSoftwareDirectory): I added alt text to images in the README, making the directory more accessible for folks who use screen readers.
+* [Acin](https://acin.pt): 
+<!-- link meu --->
+
+I built the backend for the shopping cart using Laravel and GraphQL. This was part of a project to develop and showcase my backend development skills, with a focus on modern API architecture.
+
+<!--  
 
 ## 🚀 Countdown to GitHub Universe
 
@@ -35,3 +39,4 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
+--->
