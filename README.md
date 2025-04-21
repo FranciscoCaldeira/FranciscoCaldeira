@@ -1,7 +1,37 @@
-# Hello world! ⌨️🖥️ 👨🏻‍💻 
-
-Keep shipping code to the world 😊
 <!---
 FranciscoCaldeira/FranciscoCaldeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Hello world! ⌨️🖥️ 👨🏻‍💻  👋
+
+I'm Francisco, and I'm looking for shipping code to the world 😊 as a **back-end developer**.
+
+## About me
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<!-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) --->
+
+* Communication, collaboration, empathy
+* Winner: 
+* Certification
+
+## My work
+
+* [Hiking pace calculator](https://new2code.github.io/hiking-pace-calculator/): An interactive calculator to plan your long distance hike. I made this to showcase skills I'm building with JavaScript and HTML. 
+* GitHub's [Green Software Directory](https://github.com/github/GreenSoftwareDirectory): I added alt text to images in the README, making the directory more accessible for folks who use screen readers.
+
+## 🚀 Countdown to GitHub Universe
+
+**I'm excited to attend GitHub Universe this year!**
+Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font-weight:bold">##COUNTDOWN##</span>
+
+## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
+🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
+
+1. $news_post_1
+2. $news_post_2
+
+> [!NOTE]
+> This account is maintained by the GitHub Docs team for demonstration purposes.
