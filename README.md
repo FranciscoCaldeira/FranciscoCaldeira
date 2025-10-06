@@ -11,6 +11,8 @@ I'm Francisco, and I'm looking for shipping code to the world 😊 as a **back-e
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?logo=laravel)
+![Docker](https://img.shields.io/badge/-Docker-1d63ed?logo=docker) <!-- -->
 <!-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) --->
 
 * Communication, collaboration, empathy
