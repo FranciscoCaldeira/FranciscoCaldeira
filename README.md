@@ -13,6 +13,8 @@ I'm Francisco, and I'm looking for shipping code to the world 😊 as a **back-e
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?logo=laravel)
 ![Docker](https://img.shields.io/badge/-Docker-1d63ed?logo=docker) <!-- -->
+![YML](https://img.shields.io/badge/-YML-FF0000) <!-- -->
+![graphql](https://img.shields.io/badge/-graphql-FFC0CB?logo=graphql) <!-- -->
 <!-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) --->
 
 * Communication, collaboration, empathy
