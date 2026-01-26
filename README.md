@@ -18,8 +18,6 @@ I'm Francisco, and I'm looking for shipping code to the world 😊 as a **back-e
 <!-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) --->
 
 * Communication, collaboration, empathy
-* Winner: 
-* Certification
 
 ## My work
 
