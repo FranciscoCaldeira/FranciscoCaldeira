@@ -1,12 +1,25 @@
+# Hello world! ⌨️🖥️👨🏻‍💻👋
+
+# Who am I?
+- 👋🏻 My name is Francisco;
+- 🇵🇹  I live in Madeira;
+- 🤩 I enjoy making apps for the web. One day, it will make it go to the Google store;
+- Communication, collaboration, empathy.
+
+# What am I?
+- 👨🏻‍💻 I like Coding (da...) & code mainly in PHP with Laravel;
+- 💡 I also enjoy disassembly/assembly and making cool stuff;
+- 🍥 I love good design and enjoy making things look good and working well;
+- 😊 I'm looking forward to shipping code to the world.
+
 <!---
-FranciscoCaldeira/FranciscoCaldeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+# What can you do?
+- 💸 If you enjoy any of my app's on the feel free to sponsor me, I hate ads and paywalls, so all my apps come without them.
+- ⚙️ If you find bugs or issues in any of my stuff, feel free to reach out so they can be fixed (many thanks)!
+- ⭐️ If you also want to colab on any cool projects, reach out, I'd love to help!
 --->
-# Hello world! ⌨️🖥️ 👨🏻‍💻  👋
 
-I'm Francisco, and I'm looking for shipping code to the world 😊 as a **back-end developer**.
-
-## About me
+## Techs
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -17,14 +30,14 @@ I'm Francisco, and I'm looking for shipping code to the world 😊 as a **back-e
 ![graphql](https://img.shields.io/badge/-graphql-FFC0CB?logo=graphql) <!-- -->
 <!-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) --->
 
-* Communication, collaboration, empathy
+<!--## My work
 
-## My work
+* [Acin](https://acin.pt):  --->
 
-* [Acin](https://acin.pt): 
 <!-- link meu --->
 
-I built the backend for the shopping cart using Laravel and GraphQL. This was part of a project to develop and showcase my backend development skills, with a focus on modern API architecture.
+<!--I built the backend for the shopping cart using Laravel and GraphQL. This was part of a project to develop and showcase my backend development skills, with a focus on modern API architecture. --->
+
 
 <!--  
 
@@ -84,24 +97,4 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 </table>
 
 </div>
-
-
----
-
-# Who am I?
-- 👋🏻 My name is Francisco
-- PT I Live in madeira 
-- 🤩 I enjoy making apps for the web. one day will make it to google store.
-
-# What am I?
-- 👨🏻‍💻 I like Coding (da...) & Code in mainly Laravel
-- 💡 I also enjoy disassembly/assembly  and making cool stuff
-- 🍥 I love good design and enjoy making things look good and working well
-
-# What can you do?
-- 💸 If you enjoy any of my app's on the feel free to sponsor me, I hate ads and paywalls, so all my apps come without them.
-- ⚙️ If you find bugs or issues in any of my stuff, feel free to reach out so they can be fixed (many thanks)!
-- ⭐️ If you also want to colab on any cool projects, reach out, I'd love to help!
--->
-
 
