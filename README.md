@@ -1,4 +1,11 @@
 # Hello world! ⌨️🖥️👨🏻‍💻👋
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?logo=laravel)
+![Docker](https://img.shields.io/badge/-Docker-1d63ed?logo=docker) 
+![YML](https://img.shields.io/badge/-YML-FF0000)
+![graphql](https://img.shields.io/badge/-graphql-FFC0CB?logo=graphql)
 
 # Who am I?
 - 👋🏻 My name is Francisco;
@@ -21,13 +28,7 @@
 
 ## Techs
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?logo=laravel)
-![Docker](https://img.shields.io/badge/-Docker-1d63ed?logo=docker) <!-- -->
-![YML](https://img.shields.io/badge/-YML-FF0000) <!-- -->
-![graphql](https://img.shields.io/badge/-graphql-FFC0CB?logo=graphql) <!-- -->
+
 <!-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) --->
 
 <!--## My work
