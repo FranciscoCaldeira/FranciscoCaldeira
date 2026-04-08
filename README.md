@@ -26,7 +26,7 @@
 - ⭐️ If you also want to colab on any cool projects, reach out, I'd love to help!
 --->
 
-## Techs
+## Happy Coding!
 
 
 <!-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) --->
