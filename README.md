@@ -14,8 +14,8 @@
 - Communication, collaboration, empathy.
 
 # What am I?
-- 👨🏻‍💻 I like Coding (da...) & code mainly in PHP with Laravel;
-- 💡 I also enjoy disassembly/assembly and making cool stuff;
+- 👨🏻‍💻 I like Coding (da...) & code mainly in PHP with Laravel; Or plain PHP with CSS,HTML,JS and jQuery to maintain old projects.
+- 💡 I also enjoy disassembly/assembly phones to fix them;
 - 🍥 I love good design and enjoy making things look good and working well;
 - 😊 I'm looking forward to shipping code to the world.
 
