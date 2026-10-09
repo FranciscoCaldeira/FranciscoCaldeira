@@ -20,6 +20,10 @@
 - 😊 I'm looking forward to shipping code to the world.
 
 <!---
+
+https://www.youtube.com/watch?v=3TNpOD6bov8    looks good to me AI song
+
+
 # What can you do?
 - 💸 If you enjoy any of my app's on the feel free to sponsor me, I hate ads and paywalls, so all my apps come without them.
 - ⚙️ If you find bugs or issues in any of my stuff, feel free to reach out so they can be fixed (many thanks)!
